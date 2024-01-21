@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rahim
+- 🖥️ I’m primarily a WebDev
+- 🌱 I’m currently learning Ruby, and C#
