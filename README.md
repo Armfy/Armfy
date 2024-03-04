@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Rahim
+- 👋 Hi, I’m <b>Rahim</b>
 - 🖥️ I’m primarily a WebDev
 - 🌱 I’m currently learning Ruby, and C#
