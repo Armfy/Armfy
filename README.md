@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Rahim</h1>
+<h1 align="center"><b>Rahim | Keo</b></h1>
 <h3 align="center">IT Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keobook&label=Profile%20views&color=0e75b6&style=flat" alt="keobook" /> </p>
