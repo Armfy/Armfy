@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keobook&label=Profile%20views&color=0e75b6&style=flat" alt="keobook" /> </p>
 
-- I’m currently working on [PcSPecs](https://github.com/Keobook/pcspecs)
+- I’m currently working on [PcSoecs](https://github.com/Keobook/pcspecs)
 
-- I’m currently learning **Tree.JS and C programming**
+- I’m currently learning **Three.JS and C programming**
 
 - Ask me about **Crypto | Programming | CyberSecurity**
 
