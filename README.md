@@ -5,7 +5,7 @@
 
 - I’m currently working on [PcSpecs](https://github.com/Keobook/pcspecs)
 
-- I’m currently learning **Swift**
+- I’m currently learning **Swift** </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 
 - Ask me about **Crypto | Programming | CyberSecurity**
 
