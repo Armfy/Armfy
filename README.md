@@ -5,7 +5,7 @@
 
 - I’m currently working on [PcSpecs](https://github.com/Keobook/pcspecs)
 
-- I’m currently learning **Three.JS and C programming**
+- I’m currently learning **Swift**
 
 - Ask me about **Crypto | Programming | CyberSecurity**
 
