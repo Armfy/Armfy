@@ -9,7 +9,7 @@
 
 - Ask me about **Crypto | Programming | CyberSecurity**
 
-- Know about my experiences [Freelancer | Web deisnger | Illustrator | Voice actor](Freelancer | Web deisnger | Illustrator | Voice actor)
+- Know about my experiences : Freelancer | Web deisnger | Illustrator | Voice actor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
