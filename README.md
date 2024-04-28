@@ -1,4 +1,4 @@
-<h1 align="center">Rahim | Keo</h1>
+<h1 align="center">Rahim</h1>
 <h3 align="center"><code>IT Student</code></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keobook&label=Profile%20views&color=0e75b6&style=flat" alt="keobook" /> </p>
