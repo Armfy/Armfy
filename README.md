@@ -67,10 +67,6 @@ A lightweight way to document and share PC hardware configurations.
 
 **Repo:** 👉 [armfy/pcspecs](https://github.com/armfy/pcspecs)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/armfy/pcspecs/main/.github/assets/pcspecs-preview.png" alt="PcSpecs preview" width="600"/>
-</p>
-
 ---
 
 ## 📚 Currently Learning Swift
