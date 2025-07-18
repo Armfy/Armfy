@@ -94,7 +94,7 @@ I'm diving into the Apple developer ecosystem:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armfy&show_icons=true&hide_title=true&theme=transparent" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrfy&layout=compact&theme=transparent" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfy&layout=compact&theme=transparent" alt="Top languages" height="160"/>
 </p>
 
 
