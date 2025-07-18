@@ -6,7 +6,7 @@
   </picture>
 
   <h1>Arm</h1>
-  <h3><code>IT Student · Indie Dev · Tinkerer</code></h3>
+  <h3><code>IT Student</code></h3>
 
   <!-- Profile views badge -->
 
