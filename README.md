@@ -125,4 +125,3 @@ I’m not a full‑time security pro—but I care about safe defaults in the too
 
 ---
 
-<p align="center">Thanks for stopping by! ⭐ If you like my work, consider starring a repo or dropping a message.</p>
