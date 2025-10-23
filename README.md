@@ -93,35 +93,5 @@ I'm diving into the Apple developer ecosystem:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfy&layout=compact&theme=transparent" alt="Top languages" height="160"/>
 </p>
 
-
----
-
-## 🎬 Media • Photography • Video
-
-I also work with cameras and editing stacks.
-
-* Building efficient edit pipelines (proxy vs. raw, storage strategy)
-* Color workflows: Log vs. Rec.709 vs. HDR
-
----
-
-## 🛡 CyberSecurity Curious
-
-I’m not a full‑time security pro—but I care about safe defaults in the tools I build. I like:
-
-* Basic recon & surface scanning
-* Password hashing
-* Understanding End-To-End Encryption
-  
----
-
-```md
-| Component | Spec Badge |
-|-----------|------------|
-| CPU | ![CPU](https://img.shields.io/badge/CPU-Ryzen%205%203600-FF6600) |
-| GPU | ![GPU](https://img.shields.io/badge/GPU-RX%205600XT-76B900) |
-| RAM | ![RAM](https://img.shields.io/badge/RAM-32GB-00C7B7) |
-```
-
 ---
 
