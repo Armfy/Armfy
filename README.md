@@ -13,14 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=armfy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
 
 <br/><br/>
-
-  <!-- Glass card style container (degrades to simple card in markdown) -->
-
-  <div align="center" style="max-width:600px;margin:auto;padding:16px 24px;border-radius:24px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.05);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);">
-    <em>“Build. Learn. Share. Repeat.”</em>
-  </div>
-</div>
-
 ---
 
 ## 👨‍💻 About Me
