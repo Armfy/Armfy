@@ -9,7 +9,7 @@
 > Étudiant en **BUT Métiers du Multimédia et de l'Internet**, je navigue entre le code, la création visuelle et le storytelling.
 
 ```javascript
-const rahim = {
+const armfy = {
   formation: "BUT MMI",
   passions: ["💻 Développement", "🎬 Vidéo", "📸 Photographie", "🎨 Design"],
   currentFocus: "Créer des expériences digitales uniques",
@@ -22,16 +22,16 @@ const rahim = {
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahimtam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimtam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armfy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimtam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armfy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahimtam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=armfy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -92,7 +92,7 @@ const rahim = {
 ## 📈 Activité de développement
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimtam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armfy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
@@ -109,18 +109,37 @@ Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
 
 ## 🌟 Projets en vedette
 
+<!-- Vous pourrez ajouter vos projets épinglés GitHub ici -->
+
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rahimtam&repo=nom-du-projet&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/rahimtam/nom-du-projet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armfy&repo=nom-du-projet&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/armfy/nom-du-projet)
 
 </div>
 
 ---
 
+## 📫 Me contacter
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://votre-portfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/votre-compte)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
+
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahimtam&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=armfy&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+### 💡 *"Le code est de la poésie, le design est de l'art"*
+
 </div>
 
 ---
