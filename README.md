@@ -134,12 +134,6 @@ Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
   <img src="https://komarev.com/ghpvc/?username=armfy&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
 </div>
 
-<div align="center">
-  
-### 💡 *"Le code est de la poésie, le design est de l'art"*
-
-</div>
-
 ---
 
 <div align="center">
