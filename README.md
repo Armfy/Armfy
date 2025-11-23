@@ -109,11 +109,9 @@ Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
 
 ## 🌟 Projets en vedette
 
-<!-- Vous pourrez ajouter vos projets épinglés GitHub ici -->
-
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=armfy&repo=nom-du-projet&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/armfy/nom-du-projet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armfy&repo=Zwyx&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Armfy/Zwyx)
 
 </div>
 
