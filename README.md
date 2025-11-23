@@ -92,7 +92,7 @@ const armfy = {
 ## 📈 Activité de développement
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=armfy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armfy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 ---
@@ -112,19 +112,6 @@ Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armfy&repo=Zwyx&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Armfy/Zwyx)
-
-</div>
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://votre-portfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/votre-compte)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre-email@example.com)
 
 </div>
 
