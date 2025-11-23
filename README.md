@@ -1,89 +1,130 @@
+# 👋 Salut, moi c'est Rahim !
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/100/ffffff/mac-os--v1.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/100/000000/mac-os--v1.png" />
-    <img alt="Apple-style icon" width="72" height="72" src="https://img.icons8.com/ios-filled/100/000000/mac-os--v1.png" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Étudiant+BUT+MMI+%F0%9F%8E%93;Développeur+Passionné+%F0%9F%92%BB;Créateur+de+Contenu+%F0%9F%8E%AC;Designer+%26+Photographe+%F0%9F%93%B8" alt="Typing SVG" />
+</div>
 
-  <h1>Arm</h1>
-  <h3><code>IT Student</code></h3>
+## 🎨 À propos de moi
 
-  <!-- Profile views badge -->
+> Étudiant en **BUT Métiers du Multimédia et de l'Internet**, je navigue entre le code, la création visuelle et le storytelling.
 
-  <img src="https://komarev.com/ghpvc/?username=armfy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
-
-<br/><br/>
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Arm**, an IT student who codes, edits video, and experiments with cybersecurity in my spare time. I love combining creativity (photography, video) with technical problem‑solving (apps, tooling, small utilities). When I’m not studying, I’m usually hacking on side projects, polishing workflows, or learning the next language in my stack.
-
-* 🔭 Currently building **[PcSpecs](https://github.com/Keobook/pcspecs)** – a project to collect, display, and compare PC hardware configurations.
-* 🚀 Learning **Swift** & SwiftUI for Apple platforms.
-* 💬 Ask me about: **Video Editing · Programming · Photography · CyberSecurity**.
-* 🧪 Dev in my free time; always experimenting.
+```javascript
+const rahim = {
+  formation: "BUT MMI",
+  passions: ["💻 Développement", "🎬 Vidéo", "📸 Photographie", "🎨 Design"],
+  currentFocus: "Créer des expériences digitales uniques",
+  funFact: "Je transforme le café en code et en créativité ☕"
+};
+```
 
 ---
 
-## 🧰 Tech & Tools
+## 📊 Statistiques GitHub
 
-<!-- Use shields.io badges. Add/remove as needed. -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahimtam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimtam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<p align="center">
-  <!-- Languages -->
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
-</p>
-<p align="center">
-  <!-- Frameworks / Platforms -->
-  <img alt="Phaser" src="https://img.shields.io/badge/Phaser-92A1CF?style=for-the-badge&logo=phaser&logoColor=fff"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
-  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=fff"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
-  <img alt="Apple" src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=fff"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahimtam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahimtam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🛠 Featured Project: PcSpecs
+## 🛠️ Technologies & Outils
 
-A lightweight way to document and share PC hardware configurations.
+### 💻 Développement
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-> **Goal:** Make it dead‑simple to record components (CPU/GPU/RAM/etc.), compare builds, and generate shareable spec cards.
->
-> **Stack (current / planned):** TBD – update with the actual tech once finalized (Node? PHP? Swift cross‑tooling?).
+### 🎨 Design & Créativité
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-**Repo:** 👉 [armfy/pcspecs](https://github.com/armfy/pcspecs)
-
----
-
-## 📚 Currently Learning Swift
-
-I'm diving into the Apple developer ecosystem:
-
-* Swift language basics & optionals
-* SwiftUI views, modifiers, layout
-* Networking & JSON decoding
-* Building simple Mac & iOS utilities to support my other projects
-
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  </a>
-</p>
+### 🔧 Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Ce que je fais
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armfy&show_icons=true&hide_title=true&theme=transparent" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfy&layout=compact&theme=transparent" alt="Top languages" height="160"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Développement Web
+- Applications web interactives
+- Sites responsive & modernes
+- APIs & Back-end
+- Expériences utilisateur fluides
+
+</td>
+<td width="50%">
+
+### 🎬 Création Visuelle
+- Montage vidéo & motion design
+- Photographie & retouche photo
+- Design d'interfaces (UI/UX)
+- Identités visuelles
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📈 Activité de développement
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimtam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎓 Parcours MMI
+
+Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
+- 🎨 Design graphique & UI/UX
+- 💻 Développement web & mobile
+- 🎬 Audiovisuel & création de contenu
+- 📱 Communication digitale
+
+---
+
+## 🌟 Projets en vedette
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rahimtam&repo=nom-du-projet&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/rahimtam/nom-du-projet)
+
+</div>
+
+---
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahimtam&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
