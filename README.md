@@ -103,16 +103,6 @@ Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
 
 ---
 
-## 🌟 Projets en vedette
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Armfy&repo=Zwyx&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Armfy/Zwyx)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=armfy&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
 </div>
