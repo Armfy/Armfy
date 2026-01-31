@@ -19,19 +19,6 @@ const armfy = {
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armfy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armfy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armfy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🛠️ Technologies & Outils
 
 ### 💻 Développement
@@ -59,7 +46,7 @@ const armfy = {
 ---
 
 ## 🎯 Ce que je fais
-
+<center>
 <table>
 <tr>
 <td width="50%">
@@ -72,7 +59,6 @@ const armfy = {
 
 </td>
 <td width="50%">
-
 ### 🎬 Création Visuelle
 - Montage vidéo & motion design
 - Photographie & retouche photo
@@ -82,6 +68,7 @@ const armfy = {
 </td>
 </tr>
 </table>
+</center>
 
 ---
 
@@ -93,22 +80,6 @@ const armfy = {
 
 ---
 
-## 🎓 Parcours MMI
-
-Le BUT MMI, c'est la fusion parfaite entre **tech** et **créativité** :
-- 🎨 Design graphique & UI/UX
-- 💻 Développement web & mobile
-- 🎬 Audiovisuel & création de contenu
-- 📱 Communication digitale
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=armfy&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
