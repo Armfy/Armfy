@@ -69,17 +69,3 @@ const armfy = {
 </tr>
 </table>
 </center>
-
----
-
-## 📈 Activité de développement
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Armfy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=armfy&color=blueviolet&style=for-the-badge&label=Visiteurs" alt="Profile views" />
-</div>
